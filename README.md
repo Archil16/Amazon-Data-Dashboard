@@ -20,3 +20,14 @@ Develop a dynamic, interactive dashboard similar to the provided example, showca
 - City-wise Sales (Line Chart):
 - Product-wise Units (Bar Chart):
 - Adding Icons and Buttons:
+
+- Dashboard Ineratoin <a href="https://github.com/Archil16/Amazon-Data-Dashboard/blob/main/Amazon%20sales%20data.xlsx">View Dashboard</a>
+
+## Process
+- Verify data for any missing values and sort out.
+- Made sure data is clean with respect to data tupe, data formats and values used.
+- Created pivot tables according to the questions asked.
+- merge all pivot tables into one dashboard and apply slicers to make dynamic.
+
+## Dashboard Screenshot
+<img width="1320" height="986" alt="Screenshot 2025-09-18 191700" src="https://github.com/user-attachments/assets/f3e9b2c1-d349-41b9-83d0-0af030968c4e" />
