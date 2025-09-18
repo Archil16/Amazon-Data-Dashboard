@@ -1,2 +1,3 @@
-# Amazon-Data-Dashboard
-This interactive Excel dashboard provides a comprehensive analysis of amazon sales, designed to deliver actionable insights through clean visual storytelling.
+Project: Amazon Sales Dashboard Creation in Excel
+Objective: Develop a dynamic, interactive dashboard similar to the provided example, showcasing Amazon sales data across various cities, states, and product categories.
+
