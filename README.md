@@ -21,7 +21,7 @@ Develop a dynamic, interactive dashboard similar to the provided example, showca
 - Product-wise Units (Bar Chart):
 - Adding Icons and Buttons:
 
-- Dashboard Ineratoin <a href="https://github.com/Archil16/Amazon-Data-Dashboard/blob/main/Amazon%20sales%20data.xlsx">View Dashboard</a>
+- Dashboard Ineraction <a href="https://github.com/Archil16/Amazon-Data-Dashboard/blob/main/Amazon%20sales%20data.xlsx">View Dashboard</a>
 
 ## Process
 - Verify data for any missing values and sort out.
