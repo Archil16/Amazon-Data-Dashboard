@@ -11,11 +11,10 @@ Develop a dynamic, interactive dashboard similar to the provided example, showca
 - Data Requirements: Collect or prepare a dataset with the following columns:
 - Sales Amount (₹): Total sales in currency format.
 - Units Sold: Number of units sold.
-- City: City where the sales were recorded.
 - State: State where the city is located.
 - Product Category: Category or product type.
 - Date of Sale: Optional, but useful for creating time-based trends.
-- Title: Place the title ("Amazon Sales Dashboard 2024") prominently at the top.
+- Title: Place the title ("Amazon Sales Dashboard ") prominently at the top.
 - Sales Summary Card (Doughnut Chart):
 - City-wise Sales (Line Chart):
 - Product-wise Units (Bar Chart):
